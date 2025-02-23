@@ -1,6 +1,4 @@
 # Library_DB
-Here's a **README.md** file for your **Library Management System** project on GitHub:  
-
 ---
 
 ## 📚 Library Management System  
@@ -75,5 +73,3 @@ This project is **open-source** under the **MIT License**.
 🚀 **Happy Coding!** 🚀  
 
 ---
-
-Would you like to add deployment steps or a live demo link? 😊
